@@ -23,8 +23,7 @@ Ele contém transações de cartão de crédito e dados relacionados, geralmente
 
 📌 Resumo do Modelo  
 🔹A acurácia do modelo é de 99.6%
-🔹A profundidade da árvore é de
 🔹A precisão do modelo é 98%! De cada 100 transações que o modelo acusa como fraude, ele se equivoca em apenas 2 casos, em média.
 🔹A profundidade da árvore é de 90 galhos
-🔹O número de folhas foi de 9122
+🔹O número total de folhas é de 9122
 🔹O modelo que maximiza a cobertura tem 3 de profundidade
